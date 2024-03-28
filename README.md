@@ -37,8 +37,13 @@ Autodidata
 
 <br>
 
-
+### Projetos:
+Fiz uma análise de dados que identifica quais os maiores fatores que levam a funcionarios sairem de um determinada empresa:<br>
+https://medium.com/@marcelorb47/an%C3%A1lise-de-dados-employee-3e2a92e21f8b
+<br>
 No GitHub, publico vários projetos pessoais relacionados à área de dados
+<br>
+
 <br>
 
 Fique à vontade para explorar meus projetos e entrar em contato comigo.
